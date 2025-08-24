@@ -53,7 +53,7 @@ Full model outputs are available upon request — contact: matthew.hatton@strath
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Matthew-Hatton/Climate-Change-Opens-Up-New-Fishing-Possibilities-for-Large-Scale-Trawling-Vessels-Off-West-Greenlan.git
 2. Install required R packages (listed in the scripts).
 
 3. Run MaxEnt modelling scripts from the /R_scripts/ directory.
